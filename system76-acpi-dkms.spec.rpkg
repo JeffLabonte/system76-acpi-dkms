@@ -6,7 +6,7 @@ Version:    {{{ git_dir_version }}}
 Release:    1%{?dist}
 Summary:    {{{ git_dir_name }}} 
 License:    GPLv3
-URL:        https://github.com/pop-os/system76-dkms
+URL:        https://github.com/pop-os/system76-acpi-dkms
 
 # Detailed information about the source Git repository and the source commit
 # for the created rpm package
